@@ -1,1 +1,1 @@
-select * from bla bla bla yes
+select * from bla bla bla yes au

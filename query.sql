@@ -1,1 +1,1 @@
-select * from bla bla bla yes
+asselect * from bla bla bla yes
